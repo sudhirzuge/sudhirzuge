@@ -1,5 +1,5 @@
 
-<h1 align="center">"Welcome to my profile! I'm Sudhir Zuge, a Software Engineer focused on problem-solving and building cutting-edge solutions. Check out my latest work!"</h1>
+<h1 align="center">"Welcome to my profile! I'm Sudhir Zuge, a Software Engineer focused on problem-solving and building cutting-edge solutions..!!"</h1>
 <!-- <h3 align="center">A Full Stack Developer </h3> -->
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
