@@ -1,6 +1,6 @@
 
 <h1 align="center">"Welcome to my profile! I'm Sudhir Zuge, a Software Engineer focused on problem-solving and building cutting-edge solutions..!!"</h1>
-<!-- <h3 align="center">A Full Stack Developer </h3> -->
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -15,8 +15,8 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/sudhir-zuge-85758718a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhir-zuge-85758718a" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/sudhirzuge/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="sudhir-zuge-85758718a" height="30" width="40" /></a>
-<!--<a href="https://sudhirzuge.github.io/sudhir-portfolio" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" alt="sudhir-zuge-85758718a" height="40" width="50" /></a> -->
+<a href="https://x.com/sudhirzuge" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="sudhir-zuge-85758718a" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
