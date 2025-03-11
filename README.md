@@ -7,12 +7,18 @@
 
 - 🌱 Daily Polishing my skills in **JavaScript & Java Ecosystem**
 - 👨‍💻 I like to showcase my work, check out my projects below.
+-  <a href="https://sudhirzuge.github.io/sudhir-portfolio" target="blank"><b><p style="font-size: 24px; color: red; text-align: center; animation: blink 1s infinite;">Click here to see my Portfolio!</p></b>
+<style>@keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } 100% { opacity: 1; } }</style>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/sudhirzuge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudhirzuge" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/sudhir-zuge-85758718a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhir-zuge-85758718a" height="30" width="40" /></a>
-<a href="https://sudhirzuge.github.io/sudhir-portfolio" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" alt="sudhir-zuge-85758718a" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/sudhirzuge/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="sudhir-zuge-85758718a" height="30" width="40" /></a>
+
+<a href="https://sudhirzuge.github.io/sudhir-portfolio" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" alt="sudhir-zuge-85758718a" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
