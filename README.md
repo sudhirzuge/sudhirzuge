@@ -6,7 +6,8 @@
 
 
 - 🌱 Daily Polishing my skills in **JavaScript & Java Ecosystem**
-- 👨‍💻 I like to showcase my work, <a href="https://sudhirzuge.github.io/sudhir-portfolio" target="blank"> <b><p style="font-size: 24px; color: red; text-align: center; animation: blink 1s infinite; @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } 100% { opacity: 1; } }"> Click here to see my Portfolio..! </p></b></a>
+- 👨‍💻 I like to showcase my work, checkout my projects below.
+- 📂 <a href="https://sudhirzuge.github.io/sudhir-portfolio" target="blank"> <b> Click here to see my Portfolio..! </b></a>
 
 
 <h3 align="left">Connect with me:</h3>
