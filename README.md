@@ -7,7 +7,7 @@
 
 - 🌱 Daily Polishing my skills in **JavaScript & Java Ecosystem**
 - 👨‍💻 I like to showcase my work, checkout my projects below.
-- 📂 <a href="https://sudhirzuge.github.io/sudhir-portfolio" target="blank"> <b> Click here to see my Portfolio..! </b></a>
+- 📂 <a href="https://www.sudhirzuge.com/" target="blank"> <b> Click here to see my Portfolio..! </b></a>
 
 
 
